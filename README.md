@@ -62,6 +62,4 @@
 
 **Thanks for stopping by!**
 
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
-
 </div>
