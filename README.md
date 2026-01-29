@@ -9,34 +9,6 @@
 
 ---
 
-## About Me
-
-```javascript
-const will = {
-    pronouns: "he" | "him",
-    code: ["JavaScript", "TypeScript", "Python", "PHP", "Lua", "SQL"],
-    askMeAbout: ["web dev", "APIs", "databases", "DevOps"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Next.js"],
-            css: ["CSS3", "Tailwind", "Sass"]
-        },
-        backEnd: {
-            js: ["Node.js", "Express"],
-            python: ["FastAPI", "Django"],
-            php: ["Laravel"]
-        },
-        databases: ["MongoDB", "PostgreSQL", "MySQL"],
-        devOps: ["Docker", "CI/CD", "GitHub Actions"],
-        auth: ["JWT", "OAuth"]
-    },
-    currentFocus: "Building full-stack applications",
-    funFact: "There are two ways to write error-free programs; only the third one works"
-};
-```
-
----
-
 ## Tech Stack
 
 <div align="center">
@@ -49,6 +21,7 @@ const will = {
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -65,6 +38,9 @@ const will = {
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![OAuth](https://img.shields.io/badge/OAuth-4285F4?style=for-the-badge&logo=oauth&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 </div>
 
