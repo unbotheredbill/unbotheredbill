@@ -59,16 +59,6 @@
 
 ---
 
-## Let's Connect
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/unbotheredbill)
-
-</div>
-
----
-
 <div align="center">
 
 **Thanks for stopping by!**
