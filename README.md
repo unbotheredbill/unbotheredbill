@@ -51,7 +51,6 @@
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=unbotheredbill&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" alt="GitHub Stats" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unbotheredbill&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff" alt="Top Languages" height="170"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=unbotheredbill&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak"/>
 
