@@ -1,65 +1,31 @@
-<!-- Header with Typing Animation -->
+<p align="right">
+<img src="https://komarev.com/ghpvc/?username=unbotheredbill&color=58a6ff&style=flat" alt="Profile Views" />
+</p>
+
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hey+there%2C+I'm+Will+%F0%9F%91%8B;Full-Stack+Developer;Building+cool+stuff+on+the+web)](https://git.io/typing-svg)
+## Full-Stack Developer | Game Dev Enthusiast | Automator
 
-![Profile Views](https://komarev.com/ghpvc/?username=unbotheredbill&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
+<img src="https://skillicons.dev/icons?i=js,ts,python,php,lua,cs,html,css,react,nextjs,tailwind,nodejs,express,unreal,mongodb,postgres,docker,git,github,blender&theme=dark" />
 
 </div>
 
 ---
 
-## Tech Stack
+## Who I Am
 
-<div align="center">
+Hola! I'm Will, I'm a self-taught full stack developer with nearly six years of building things that solve real problems, and if I can automate it, I will. I got into this world out of curiosity, stayed for the problem-solving, and somewhere along the way it became both my craft and my obsession.
 
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+I'm a game dev at heart. I spend my off-hours inside Unreal Engine and Blender, shaping ideas into interactive worlds. It's where I get to build just for the joy of building. I'm a night owl, a perpetual learner, and forever a fan of The Lord of the Rings.
 
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+If you're into automations, learning new things about tech, or have a project in mind, feel free to reach out.
 
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Tools & Platforms
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![OAuth](https://img.shields.io/badge/OAuth-4285F4?style=for-the-badge&logo=oauth&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-</div>
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=unbotheredbill&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" alt="GitHub Stats" height="170"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=unbotheredbill&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak"/>
-
-</div>
+**Languages:** English | Spanish | Portuguese
 
 ---
 
 <div align="center">
 
-**Thanks for stopping by!**
+*Not all those who wander are lost.*
 
 </div>
